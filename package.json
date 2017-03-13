@@ -1,0 +1,22 @@
+{
+  "name": "scripting-http-request-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borishaw/scriptingHttpReqeustWithNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borishaw/scriptingHttpReqeustWithNodeJS/issues"
+  },
+  "homepage": "https://github.com/borishaw/scriptingHttpReqeustWithNodeJS#readme",
+  "dependencies": {
+    "reverse-string": "0.0.6"
+  }
+}
